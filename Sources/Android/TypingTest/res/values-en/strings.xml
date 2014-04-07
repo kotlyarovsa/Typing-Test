@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sKeyboard">Keyboard</string>
+    <string name="sExit">Exit</string>
+    <string name="sAbout">About</string>
+    <string name="sTesting">Testing</string>
+    <string name="sSettings">Settings</string>
+    <string name="sText">Text</string>
+    <string name="sSequences">Sequences</string>
+    <string name="sNothing">Nothing</string>
+    <string name="sBack">Back</string>
+    <string name="sYouWin">You did it!</string>
+    <string name="sFounded">Founded </string>
+    <string name="sMissed">Missed </string>
+    <string name="sMistakes">Mistakes </string>
+    <string name="sWords">Words </string>
+    <string name="sRight">Right</string>
+    <string name="sHungry">I\'m hungry...</string>
+    <string name="sAboutText1">Like many people around the world we faced thе problem of working with long texts on smartphones. And we decided to create a device which would make inputting and editing texts on smartphones comfortable and effective. </string>
+    <string name="sAboutText2">Our invention that can solve the problem of text input and editing on smartphones – Octodon keyboard. It is compact sized 10-fingers keyboard that provides high entry speed (comparable to full-sized QWERTY). </string>
+</resources>
